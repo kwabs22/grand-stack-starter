@@ -1,0 +1,8 @@
+To Learn a pattern that already exist requires repitition of the shape of the pattern 
+
+aka to practice you have gut the metaphorical fish ==> existing code must be reverse engineered into syntax structures to fully understand the flow of data with it
+
+eg. in VS code all declared variables can be one colour while all arguments passed get another colour 
+==> those are the things that need to be removed to study the structure of the code ==> Reverse engineer a syntax highlighter
+
+One approach to Brainstorming a coding problem is using the wrong code structure at random until you understand what the right one is 
