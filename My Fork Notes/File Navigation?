@@ -1,0 +1,11 @@
+UI
+grand-stack-starter/web-react-ts/src/components/
+grand-stack-starter/web-react/src/components/
+grand-stack-starter/mobile_client_flutter/android/app/src/
+Not Sure how angular UI works
+
+Graph QL
+
+Database
+Go to neo4j github to try understand the java
+APOC - java apps called into a Dockerfile
